@@ -1,0 +1,10 @@
+.idea/
+venv/
+
+logs/*.*
+!logs/.gitkeep
+
+tests/*.*
+!tests/.gitkeep
+
+config*
